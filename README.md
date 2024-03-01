@@ -1,2 +1,4 @@
-# RBM-Recommender
-Unraveling Netflix Movie Ratings with Restricted Boltzmann Machine Based Collaborative Filtering | ML, Python
+# Predictive Model: Unraveling Movie Ratings with RBMBased Collaborative Filtering
+
+Netflix needs to recommend movies based on a user's viewing history and preferences, and to solve this problem, Netflix launched a contest to encourage data scientists to develop advanced algorithms to predict user preferences and improve movie recommendations. In the context of recommender systems, linear regression can be used to predict user ratings of movies based on various features. Restricted Boltzmann Machine (RBM) is a type of artificial neural network that excels in capturing complex patterns and dependencies in data.RBM excels in collaborative filtering, which can be used to make analysis by analyzing the preferences of similar users. Project goals: The main goal of this project is to train a model for movie recommendation through collaborative filtering using a recommender system that focuses on linear regression and restricted Boltzmann machines. Collaborative filtering involves predicting user preferences based on the preferences of other users with similar tastes.
+
