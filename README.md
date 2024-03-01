@@ -22,7 +22,11 @@ The way how this is traversed Mathematically is shown in the report pdf
 
 ### Few test runs and what we learn
 - One of the largest problem we ran into was overfitting models, Here is one where we notice  at 30 epochs it is still getting more used to the training dataset while the results on the validation only get worse. By implementing an adaptive learning rate with other variables kept intact we can see a large difference. we also do analysis on other hyper parameters :
+
+![image](https://github.com/H4D32/RBM-Recommender/assets/49611754/41e8dfd3-44fd-474e-a2da-e8c71068950a)
+
 - Analysis on the number of hidden units:
+
 ![image](https://github.com/H4D32/RBM-Recommender/assets/49611754/f41209b2-50f2-489a-a4c9-5d771373f97e)
 
 
